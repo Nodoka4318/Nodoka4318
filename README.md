@@ -1,3 +1,7 @@
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChx3mcAmSK7Rqm8FSsPipOg?label=YouTube&logo=youtube&style=flat)
+![Twitter Followers](https://img.shields.io/twitter/follow/Nodoka_Oto_Mad?label=Twitter&logo=twitter&style=flat)
+![GitHub Views](https://komarev.com/ghpvc/?username=Nodoka4318)
+<br>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodoka4318)](https://github.com/anuraghazra/github-readme-stats)-->
 .NETをいじって遊んでる学生です<br>
 オブジェクト指向の言語が好きです<br>
