@@ -1,6 +1,6 @@
-<a href="https://www.youtube.com/channel/UChx3mcAmSK7Rqm8FSsPipOg">![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChx3mcAmSK7Rqm8FSsPipOg?label=YouTube&logo=youtube&style=flat)</a>
-<a href="https://www.twitter.com/Nodoka_Oto_Mad">![Twitter Followers](https://img.shields.io/twitter/follow/Nodoka_Oto_Mad?label=Twitter&logo=twitter&style=flat)</a>
-<a href="https://www.kankantari.net">![GitHub Views](https://komarev.com/ghpvc/?username=Nodoka4318)</a>
+<a href="https://www.youtube.com/channel/UChx3mcAmSK7Rqm8FSsPipOg" target="_blank" rel="noopener noreferrer">![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChx3mcAmSK7Rqm8FSsPipOg?label=YouTube&logo=youtube&style=flat)</a>
+<a href="https://www.twitter.com/Nodoka_Oto_Mad" target="_blank" rel="noopener noreferrer">![Twitter Followers](https://img.shields.io/twitter/follow/Nodoka_Oto_Mad?label=Twitter&logo=twitter&style=flat)</a>
+<a href="https://www.kankantari.net" target="_blank" rel="noopener noreferrer">![GitHub Views](https://komarev.com/ghpvc/?username=Nodoka4318)</a>
 <br>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodoka4318)](https://github.com/anuraghazra/github-readme-stats)-->
 .NETをいじって遊んでる学生です<br>
