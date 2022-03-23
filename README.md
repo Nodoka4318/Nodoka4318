@@ -7,6 +7,10 @@
 オブジェクト指向の言語が好きです<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodoka4318&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+### こいつの特徴
+- コーディング規約……なにそれ
+- 典型的なクソコード
 <!--
 ### Hi there 👋
 **Nodoka4318/Nodoka4318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
