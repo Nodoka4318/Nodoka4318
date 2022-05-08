@@ -10,6 +10,12 @@
 ### こいつの特徴
 - コーディング規約……なにそれ
 - 典型的なクソコード
+
+### Currently working on..
+- [ ] EasyOjima
+- [ ] EasyOjimaMobile
+- [ ] Cigit
+- [ ] OnigiriClient
 <!--
 ### Hi there 👋
 **Nodoka4318/Nodoka4318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
