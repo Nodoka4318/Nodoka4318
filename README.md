@@ -2,7 +2,7 @@
 <a href="https://www.twitter.com/Nodoka_Oto_Mad" target="_blank" rel="noopener noreferrer">![Twitter Followers](https://img.shields.io/twitter/follow/Nodoka_Oto_Mad?label=Twitter&logo=twitter&style=flat)</a>
 <a href="https://www.kankantari.net" target="_blank" rel="noopener noreferrer">![GitHub Views](https://komarev.com/ghpvc/?username=Nodoka4318)</a>
 <br>
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodoka4318)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodoka4318)](https://github.com/anuraghazra/github-readme-stats)
 .NETをいじって遊んでる学生です<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodoka4318&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
