@@ -3,11 +3,12 @@
 <a href="https://www.kankantari.net" target="_blank" rel="noopener noreferrer">![GitHub Views](https://komarev.com/ghpvc/?username=Nodoka4318)</a>
 
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodoka4318)](https://github.com/anuraghazra/github-readme-stats)
 .NETをいじって遊んでる学生です<br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodoka4318&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodoka4318&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 ### こいつの特徴
 - コーディング規約……なにそれ
 - 典型的なクソコード
