@@ -1,0 +1,1 @@
+print(str([(lambda n: "FizzBuzz" if i % 3 == 0 and i % 5 == 0 else "Fizz" if i % 3 == 0 else "Buzz" if i % 5 == 0 else n)(i) for i in range(1, 56)]).replace(", ", "\n").replace("[", "").replace("]", "").replace("'", ""))
